@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Online Examination System",
+    "description": "A modern portfolio using Next.js and Tailwind CSS",
+    "techStack": ["Php", "Html", "Css", "JavaScript"],
+    "link": "https://mohit123.rf.gd/"
+  },
+  {
+    "id": 2,
+    "name": "AI Chatbot",
+    "description": "A personal AI assistant for my portfolio",
+    "techStack": ["Node.js", "OpenAI", "React"],
+    "link": "https://github.com/yourusername/ai-chatbot"
+  }
+]
